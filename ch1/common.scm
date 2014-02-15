@@ -54,6 +54,6 @@
                         (+ a b)
                         (+ result a b))))
 
-    (better-bobo-iter n 2 1 0 result)))
+  (better-bobo-iter n 2 1 0 result))
 
 (bobo 15)
